@@ -1,3 +1,22 @@
+gitignore
+# Ambiente virtual
+venv/
+.venv/
+env/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Dados locais (não versionar o "banco" do usuário)
+dados/tarefas.json
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
