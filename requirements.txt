@@ -1,1 +1,10 @@
-
+txt
+# TASKTRACKER - Dependências
+# O projeto utiliza apenas a biblioteca padrão do Python 3.10+
+# Nenhuma dependência externa é necessária para a Fase 2.
+#
+# Bibliotecas utilizadas (nativas):
+#   - json        (persistência)
+#   - datetime    (data de vencimento / conclusão)
+#   - os, sys     (manipulação de caminhos)
+#   - unittest    (testes unitários)
