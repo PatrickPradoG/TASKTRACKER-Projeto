@@ -69,13 +69,21 @@ python -m unittest discover -s src/tests -v
 TASKTRACKER/
 
 ├── dados/                 # Persistência JSON (gerada automaticamente)
+
 ├── docs/                  # Documentação e planejamento
+
 ├── src/
+
 │   ├── main.py            # Menu principal
+
 │   ├── tarefas.py         # Regras de negócio
+
 │   ├── ui/menu.py         # Interface CLI
+
 │   └── tests/             # Testes unitários
+
 ├── README.md
+
 └── requirements.txt
 
 ---
