@@ -50,7 +50,7 @@ Auxiliar o usuário a **organizar sua rotina** e **otimizar o tempo**, permitind
 
 bash
 # 1. Clone o repositório
-git clone https://github.com/SEU_USUARIO/TASKTRACKER.git
+git clone https://github.com/PatrickPradoG/TASKTRACKER-Projeto.git
 cd TASKTRACKER
 
 # 2. Execute a aplicação
@@ -67,6 +67,7 @@ python -m unittest discover -s src/tests -v
 
 
 TASKTRACKER/
+
 ├── dados/                 # Persistência JSON (gerada automaticamente)
 ├── docs/                  # Documentação e planejamento
 ├── src/
